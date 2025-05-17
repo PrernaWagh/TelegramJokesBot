@@ -1,0 +1,8 @@
+langchain         #framework to create the generative AI projects(using LLM's)
+python-dotenv       #to access the things in .env file(API key,.....)
+ipykernel          #to use the same version on python as in env
+langchain_groq     # to access groq AI features,integrates it with langchain
+langchain_community     #provide access to variety of tools,API's
+langchain_huggingface     #access to gugging face models and datasets into langchain
+streamlit
+python-telegram.bot
